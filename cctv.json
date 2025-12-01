@@ -1,0 +1,1035 @@
+{
+    "status": "success",
+    "message": "Data CCTV berhasil diambil",
+    "data": [
+        {
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    104.761266,
+                    -2.9913
+                ]
+            },
+            "stream_quality": {
+                "resolution": "1920x1080",
+                "fps": 25,
+                "bitrate": 4096
+            },
+            "_id": "68f09d50b4545109d5349b12",
+            "cctv_id": "CCTV-BKB-02",
+            "cctv_title": "CCTV Benteng Kuto Besak",
+            "cctv_desc": "Menampilkan kondisi lalu lintas dan arus kendaraan di sekitar Jembatan Ampera, Palembang.",
+            "cctv_category": "lalu lintas",
+            "cctv_opd": {
+                "_id": "68f9a4776438b221f38a76fd",
+                "nama_opd": "Dinas Komunikasi dan Informatika"
+            },
+            "cctv_link": "https://stream.palembang.go.id/stream2/index.m3u8",
+            "cctv_status": "active",
+            "kecamatan_id": "K001",
+            "kecamatan_nama": "Ilir Timur I",
+            "kelurahan_id": "L001",
+            "kelurahan_nama": "1 Ilir",
+            "rw_id": "RW001",
+            "rw_nama": "RW 01",
+            "rt_id": "RT001",
+            "rt_nama": "RT 03",
+            "kampung_id": "KP001",
+            "kampung_nama": "Kampung Seberang Ulu",
+            "last_checked_at": "2025-11-25T09:30:06.476Z",
+            "is_online": true,
+            "createdAt": "2025-10-16T07:22:56.608Z",
+            "updatedAt": "2025-11-25T09:30:07.279Z",
+            "__v": 0,
+            "kecamatan": {
+                "_id": "68fae8a07e01c59a79a591d2",
+                "namaKecamatan": "ALANG-ALANG LEBAR"
+            },
+            "kelurahan": {
+                "_id": "68fae8ba7e01c59a79a5927c",
+                "namaKelurahan": "ALANG-ALANG LEBAR"
+            }
+        },
+        {
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    104.763433,
+                    -2.991656
+                ]
+            },
+            "stream_quality": {
+                "resolution": "1920x1080",
+                "fps": 25,
+                "bitrate": 4096
+            },
+            "_id": "68f1eb2559856d26347a8d6b",
+            "cctv_id": "CCTV-AMPERA-01",
+            "cctv_title": "CCTV Jembatan Ampera 1",
+            "cctv_desc": "Menampilkan kondisi lalu lintas dan arus kendaraan di sekitar Jembatan Ampera, Palembang.",
+            "cctv_category": "lalu lintas",
+            "cctv_opd": {
+                "_id": "68f9a4776438b221f38a76fd",
+                "nama_opd": "Dinas Komunikasi dan Informatika"
+            },
+            "cctv_link": "https://stream.palembang.go.id/stream1/index.m3u8",
+            "cctv_status": "active",
+            "kecamatan_id": "K001",
+            "kecamatan_nama": "Ilir Timur I",
+            "kelurahan_id": "L001",
+            "kelurahan_nama": "1 Ilir",
+            "rw_id": "RW001",
+            "rw_nama": "RW 01",
+            "rt_id": "RT001",
+            "rt_nama": "RT 03",
+            "kampung_id": "KP001",
+            "kampung_nama": "Kampung Seberang Ulu",
+            "last_checked_at": "2025-10-16T06:00:00.000Z",
+            "is_online": true,
+            "createdAt": "2025-10-17T07:07:17.662Z",
+            "updatedAt": "2025-10-24T07:31:18.959Z",
+            "__v": 0,
+            "kecamatan": {
+                "_id": "68fae8a07e01c59a79a591d2",
+                "namaKecamatan": "ALANG-ALANG LEBAR"
+            },
+            "kelurahan": {
+                "_id": "68fae8ba7e01c59a79a59250",
+                "namaKelurahan": "SATU ILIR"
+            }
+        },
+        {
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    104.737709,
+                    -2.961082
+                ]
+            },
+            "stream_quality": {
+                "resolution": "1920x1080",
+                "fps": 25,
+                "bitrate": 4096
+            },
+            "_id": "68f599c557309f826693740c",
+            "cctv_id": "CCTV-SIMPANG-POLDA-03",
+            "cctv_title": "CCTV Simpang Polda",
+            "cctv_desc": "Menampilkan kondisi lalu lintas dan arus kendaraan di sekitar Jembatan Ampera, Palembang.",
+            "cctv_category": "lalu lintas",
+            "cctv_opd": {
+                "_id": "68f9a4776438b221f38a76fd",
+                "nama_opd": "Dinas Komunikasi dan Informatika"
+            },
+            "cctv_link": "https://stream.palembang.go.id/stream3/index.m3u8",
+            "cctv_status": "active",
+            "kecamatan_id": "K001",
+            "kecamatan_nama": "Ilir Timur I",
+            "kelurahan_id": "L001",
+            "kelurahan_nama": "1 Ilir",
+            "rw_id": "RW001",
+            "rw_nama": "RW 01",
+            "rt_id": "RT001",
+            "rt_nama": "RT 03",
+            "kampung_id": "KP001",
+            "kampung_nama": "Kampung Seberang Ulu",
+            "last_checked_at": "2025-10-16T06:00:00.000Z",
+            "is_online": true,
+            "createdAt": "2025-10-20T02:09:09.312Z",
+            "updatedAt": "2025-10-24T07:32:44.914Z",
+            "__v": 0,
+            "kecamatan": {
+                "_id": "68fae8a07e01c59a79a591d2",
+                "namaKecamatan": "ALANG-ALANG LEBAR"
+            },
+            "kelurahan": {
+                "_id": "68fae8ba7e01c59a79a59250",
+                "namaKelurahan": "SATU ILIR"
+            }
+        },
+        {
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    104.718564,
+                    -2.988056
+                ]
+            },
+            "stream_quality": {
+                "resolution": "1920x1080",
+                "fps": 25,
+                "bitrate": 4096
+            },
+            "_id": "68f59cab57309f8266937417",
+            "cctv_id": "CCTV-SIMPANG-4-MACANLINDUNGAN-04",
+            "cctv_title": "CCTV Simpang Macan Lindungan",
+            "cctv_desc": "Menampilkan kondisi lalu lintas dan arus kendaraan di sekitar Jembatan Ampera, Palembang.",
+            "cctv_category": "lalu lintas",
+            "cctv_opd": {
+                "_id": "68f9a4776438b221f38a76fd",
+                "nama_opd": "Dinas Komunikasi dan Informatika"
+            },
+            "cctv_link": "https://stream.palembang.go.id/stream4/index.m3u8",
+            "cctv_status": "active",
+            "kecamatan_id": "K001",
+            "kecamatan_nama": "Ilir Timur I",
+            "kelurahan_id": "L001",
+            "kelurahan_nama": "1 Ilir",
+            "rw_id": "RW001",
+            "rw_nama": "RW 01",
+            "rt_id": "RT001",
+            "rt_nama": "RT 03",
+            "kampung_id": "KP001",
+            "kampung_nama": "Kampung Seberang Ulu",
+            "last_checked_at": "2025-10-16T06:00:00.000Z",
+            "is_online": true,
+            "createdAt": "2025-10-20T02:21:31.248Z",
+            "updatedAt": "2025-10-24T07:34:21.523Z",
+            "__v": 0,
+            "kecamatan": {
+                "_id": "68fae8a07e01c59a79a591d2",
+                "namaKecamatan": "ALANG-ALANG LEBAR"
+            },
+            "kelurahan": {
+                "_id": "68fae8ba7e01c59a79a59250",
+                "namaKelurahan": "SATU ILIR"
+            }
+        },
+        {
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    104.732837,
+                    -2.969155
+                ]
+            },
+            "stream_quality": {
+                "resolution": "1920x1080",
+                "fps": 25,
+                "bitrate": 4096
+            },
+            "_id": "68f59d6857309f826693741a",
+            "cctv_id": "CCTV-SIMPANG-ANGKATAN-45-05",
+            "cctv_title": "CCTV Simpang Angkatan 45",
+            "cctv_desc": "Menampilkan kondisi lalu lintas dan arus kendaraan di sekitar Jembatan Ampera, Palembang.",
+            "cctv_category": "lalu lintas",
+            "cctv_opd": {
+                "_id": "68f9a4776438b221f38a76fd",
+                "nama_opd": "Dinas Komunikasi dan Informatika"
+            },
+            "cctv_link": "https://stream.palembang.go.id/stream5/index.m3u8",
+            "cctv_status": "active",
+            "kecamatan_id": "K001",
+            "kecamatan_nama": "Ilir Timur I",
+            "kelurahan_id": "L001",
+            "kelurahan_nama": "1 Ilir",
+            "rw_id": "RW001",
+            "rw_nama": "RW 01",
+            "rt_id": "RT001",
+            "rt_nama": "RT 03",
+            "kampung_id": "KP001",
+            "kampung_nama": "Kampung Seberang Ulu",
+            "last_checked_at": "2025-10-16T06:00:00.000Z",
+            "is_online": true,
+            "createdAt": "2025-10-20T02:24:40.728Z",
+            "updatedAt": "2025-10-24T07:35:25.591Z",
+            "__v": 0,
+            "kecamatan": {
+                "_id": "68fae8a07e01c59a79a591d2",
+                "namaKecamatan": "ALANG-ALANG LEBAR"
+            },
+            "kelurahan": {
+                "_id": "68fae8ba7e01c59a79a59250",
+                "namaKelurahan": "SATU ILIR"
+            }
+        },
+        {
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    104.755865,
+                    -2.979976
+                ]
+            },
+            "stream_quality": {
+                "resolution": "1920x1080",
+                "fps": 25,
+                "bitrate": 4096
+            },
+            "_id": "68f9f32d57309f82669542ca",
+            "cctv_id": "CCTV-CINDE-06",
+            "cctv_title": "CCTV Cinde",
+            "cctv_desc": "Menampilkan kondisi lalu lintas dan arus kendaraan di sekitar Jembatan Ampera, Palembang.",
+            "cctv_category": "lalu lintas",
+            "cctv_opd": {
+                "_id": "68f9a4776438b221f38a76f5",
+                "nama_opd": "Dinas Perhubungan"
+            },
+            "cctv_link": "https://stream.palembang.go.id/stream6/index.m3u8",
+            "cctv_status": "active",
+            "kecamatan_id": "K001",
+            "kecamatan_nama": "Ilir Timur I",
+            "kelurahan_id": "L001",
+            "kelurahan_nama": "1 Ilir",
+            "rw_id": "RW001",
+            "rw_nama": "RW 01",
+            "rt_id": "RT001",
+            "rt_nama": "RT 03",
+            "kampung_id": "KP001",
+            "kampung_nama": "Kampung Seberang Ulu",
+            "last_checked_at": "2025-11-27T06:41:36.650Z",
+            "is_online": true,
+            "createdAt": "2025-10-23T09:19:41.422Z",
+            "updatedAt": "2025-11-27T06:41:36.757Z",
+            "__v": 0,
+            "kecamatan": {
+                "_id": "68fae8a07e01c59a79a591d2",
+                "namaKecamatan": "ALANG-ALANG LEBAR"
+            },
+            "kelurahan": {
+                "_id": "68fae8ba7e01c59a79a59250",
+                "namaKelurahan": "SATU ILIR"
+            }
+        },
+        {
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    104.745707,
+                    -2.980102
+                ]
+            },
+            "stream_quality": {
+                "resolution": ""
+            },
+            "_id": "69258608273b6e50c40e5038",
+            "cctv_id": "CCTV-SP-DPRD-07",
+            "cctv_title": "CCTV SP 5 DPRD Prov",
+            "cctv_desc": "",
+            "cctv_category": "",
+            "cctv_opd": {
+                "_id": "68f9a4776438b221f38a76fd",
+                "nama_opd": "Dinas Komunikasi dan Informatika"
+            },
+            "cctv_link": "https://stream.palembang.go.id/stream7/index.m3u8",
+            "cctv_status": "active",
+            "kecamatan": {
+                "_id": "68fae8a07e01c59a79a591d7",
+                "namaKecamatan": "ILIR TIMUR SATU"
+            },
+            "kelurahan": {
+                "_id": "68fae8ba7e01c59a79a59265",
+                "namaKelurahan": "DUA-PULUH ILIR TIGA"
+            },
+            "rw_nama": "",
+            "rt_nama": "",
+            "kampung_nama": "",
+            "last_checked_at": "2025-11-25T10:33:44.528Z",
+            "is_online": true,
+            "createdAt": "2025-11-25T10:33:44.701Z",
+            "updatedAt": "2025-11-25T10:33:44.701Z",
+            "__v": 0
+        },
+        {
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    104.75434,
+                    -2.976768
+                ]
+            },
+            "stream_quality": {
+                "resolution": ""
+            },
+            "_id": "6925871c273b6e50c40e50e1",
+            "cctv_id": "CCTV-CHARITAS-08",
+            "cctv_title": "CCTV SP Charitas",
+            "cctv_desc": "",
+            "cctv_category": "",
+            "cctv_opd": {
+                "_id": "68f9a4776438b221f38a76fd",
+                "nama_opd": "Dinas Komunikasi dan Informatika"
+            },
+            "cctv_link": "https://stream.palembang.go.id/stream8/index.m3u8",
+            "cctv_status": "active",
+            "kecamatan": {
+                "_id": "68fae8a07e01c59a79a591d9",
+                "namaKecamatan": "ILIR TIMUR TIGA"
+            },
+            "kelurahan": {
+                "_id": "68fae8ba7e01c59a79a59253",
+                "namaKelurahan": "SEBELAS ILIR"
+            },
+            "rw_nama": "",
+            "rt_nama": "",
+            "kampung_nama": "",
+            "last_checked_at": "2025-11-25T10:53:31.557Z",
+            "is_online": true,
+            "createdAt": "2025-11-25T10:38:20.485Z",
+            "updatedAt": "2025-11-25T10:53:31.694Z",
+            "__v": 0
+        },
+        {
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    104.760447,
+                    -2.98819
+                ]
+            },
+            "stream_quality": {
+                "resolution": ""
+            },
+            "_id": "69258794273b6e50c40e515c",
+            "cctv_id": "CCTV-MASJID-AGUNG-09",
+            "cctv_title": "CCTV Masjid Agung",
+            "cctv_desc": "",
+            "cctv_category": "",
+            "cctv_opd": {
+                "_id": "68f9a4776438b221f38a76fd",
+                "nama_opd": "Dinas Komunikasi dan Informatika"
+            },
+            "cctv_link": "https://stream.palembang.go.id/stream9/index.m3u8",
+            "cctv_status": "active",
+            "kecamatan": {
+                "_id": "68fae8a07e01c59a79a591d3",
+                "namaKecamatan": "BUKITKECIL"
+            },
+            "kelurahan": {
+                "_id": "68fae8ba7e01c59a79a59260",
+                "namaKelurahan": "SEMBILAN-BELAS ILIR"
+            },
+            "rw_nama": "",
+            "rt_nama": "",
+            "kampung_nama": "",
+            "last_checked_at": "2025-11-25T10:40:19.868Z",
+            "is_online": true,
+            "createdAt": "2025-11-25T10:40:20.048Z",
+            "updatedAt": "2025-11-25T10:40:20.048Z",
+            "__v": 0
+        },
+        {
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    104.74813054912386,
+                    -2.9549290200135827
+                ]
+            },
+            "stream_quality": {
+                "resolution": ""
+            },
+            "_id": "692588a8273b6e50c40e525b",
+            "cctv_id": "CCTV-HERMINA-10",
+            "cctv_title": "CCTV HERMINA",
+            "cctv_desc": "",
+            "cctv_category": "",
+            "cctv_opd": {
+                "_id": "68f9a4776438b221f38a76fd",
+                "nama_opd": "Dinas Komunikasi dan Informatika"
+            },
+            "cctv_link": "https://stream.palembang.go.id/stream10/index.m3u8",
+            "cctv_status": "active",
+            "kecamatan": {
+                "_id": "68fae8a07e01c59a79a591d8",
+                "namaKecamatan": "ILIR TIMUR DUA"
+            },
+            "kelurahan": {
+                "_id": "68fae8ba7e01c59a79a59250",
+                "namaKelurahan": "SATU ILIR"
+            },
+            "rw_nama": "",
+            "rt_nama": "",
+            "kampung_nama": "",
+            "last_checked_at": "2025-11-25T10:44:56.305Z",
+            "is_online": true,
+            "createdAt": "2025-11-25T10:44:56.432Z",
+            "updatedAt": "2025-11-25T10:44:56.432Z",
+            "__v": 0
+        },
+        {
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    104.7890342010666,
+                    -2.988188789541928
+                ]
+            },
+            "stream_quality": {
+                "resolution": ""
+            },
+            "_id": "6926bdb1273b6e50c40eec12",
+            "cctv_id": "CCTV-TANGGA-TAKAT-11",
+            "cctv_title": "CCTV TANGGA TAKAT",
+            "cctv_desc": "",
+            "cctv_category": "",
+            "cctv_opd": {
+                "_id": "68f9a4776438b221f38a76fd",
+                "nama_opd": "Dinas Komunikasi dan Informatika"
+            },
+            "cctv_link": "https://stream.palembang.go.id/stream11/index.m3u8",
+            "cctv_status": "active",
+            "kecamatan": {
+                "_id": "68fae8a07e01c59a79a591da",
+                "namaKecamatan": "JAKABARING"
+            },
+            "kelurahan": {
+                "_id": "68fae8ba7e01c59a79a5925b",
+                "namaKelurahan": "LIMA-BELAS ULU"
+            },
+            "rw_nama": "",
+            "rt_nama": "",
+            "kampung_nama": "",
+            "last_checked_at": "2025-11-26T08:45:15.686Z",
+            "is_online": true,
+            "createdAt": "2025-11-26T08:43:29.660Z",
+            "updatedAt": "2025-11-26T08:45:15.829Z",
+            "__v": 0
+        },
+        {
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    104.726852,
+                    -2.992495
+                ]
+            },
+            "stream_quality": {
+                "resolution": ""
+            },
+            "_id": "6926beca273b6e50c40eec73",
+            "cctv_id": "CCTV-SPSMA10-12",
+            "cctv_title": "CCTV SP SMA 10",
+            "cctv_desc": "",
+            "cctv_category": "",
+            "cctv_opd": {
+                "_id": "68f9a4776438b221f38a76fd",
+                "nama_opd": "Dinas Komunikasi dan Informatika"
+            },
+            "cctv_link": "https://stream.palembang.go.id/stream12/index.m3u8",
+            "cctv_status": "active",
+            "kecamatan": {
+                "_id": "68fae8a07e01c59a79a591d4",
+                "namaKecamatan": "GANDUS"
+            },
+            "kelurahan": {
+                "_id": "68fae8ba7e01c59a79a59274",
+                "namaKelurahan": "TIGA-PULUH-ENAM ILIR"
+            },
+            "rw_nama": "",
+            "rt_nama": "",
+            "kampung_nama": "",
+            "last_checked_at": "2025-11-26T08:48:10.396Z",
+            "is_online": true,
+            "createdAt": "2025-11-26T08:48:10.530Z",
+            "updatedAt": "2025-11-26T08:48:10.530Z",
+            "__v": 0
+        },
+        {
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    104.68819312611218,
+                    -2.913313005325259
+                ]
+            },
+            "stream_quality": {
+                "resolution": ""
+            },
+            "_id": "6926bf54273b6e50c40eeca6",
+            "cctv_id": "CCTV-KM12-13",
+            "cctv_title": "CCTV KM 12",
+            "cctv_desc": "",
+            "cctv_category": "",
+            "cctv_opd": {
+                "_id": "68f9a4776438b221f38a76fd",
+                "nama_opd": "Dinas Komunikasi dan Informatika"
+            },
+            "cctv_link": "https://stream.palembang.go.id/stream13/index.m3u8",
+            "cctv_status": "active",
+            "kecamatan": {
+                "_id": "68fae8a07e01c59a79a591d8",
+                "namaKecamatan": "ILIR TIMUR DUA"
+            },
+            "kelurahan": {
+                "_id": "68fae8ba7e01c59a79a59261",
+                "namaKelurahan": "DUA ILIR"
+            },
+            "rw_nama": "",
+            "rt_nama": "",
+            "kampung_nama": "",
+            "last_checked_at": "2025-11-26T08:50:28.528Z",
+            "is_online": true,
+            "createdAt": "2025-11-26T08:50:28.649Z",
+            "updatedAt": "2025-11-26T08:50:28.649Z",
+            "__v": 0
+        },
+        {
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    104.72821884263027,
+                    -2.942646034079567
+                ]
+            },
+            "stream_quality": {
+                "resolution": ""
+            },
+            "_id": "6926c5d9273b6e50c40ef292",
+            "cctv_id": "CCTV-PUNTI-KAYU-14",
+            "cctv_title": "CCTV Punti Kayu",
+            "cctv_desc": "",
+            "cctv_category": "",
+            "cctv_opd": {
+                "_id": "68f9a4776438b221f38a76fd",
+                "nama_opd": "Dinas Komunikasi dan Informatika"
+            },
+            "cctv_link": "https://stream.palembang.go.id/stream14/index.m3u8",
+            "cctv_status": "active",
+            "kecamatan": {
+                "_id": "68fae8a07e01c59a79a591d4",
+                "namaKecamatan": "GANDUS"
+            },
+            "kelurahan": {
+                "_id": "68fae8ba7e01c59a79a59284",
+                "namaKelurahan": "GANDUS"
+            },
+            "rw_nama": "",
+            "rt_nama": "",
+            "kampung_nama": "",
+            "last_checked_at": "2025-11-26T09:18:17.098Z",
+            "is_online": true,
+            "createdAt": "2025-11-26T09:18:17.284Z",
+            "updatedAt": "2025-11-26T09:18:17.284Z",
+            "__v": 0
+        },
+        {
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    104.74784199928673,
+                    -3.003907208379633
+                ]
+            },
+            "stream_quality": {
+                "resolution": ""
+            },
+            "_id": "6926c654273b6e50c40ef2c9",
+            "cctv_id": "CCTV-MUSI6-15",
+            "cctv_title": "CCTV MUSI 6",
+            "cctv_desc": "",
+            "cctv_category": "",
+            "cctv_opd": {
+                "_id": "68f9a4776438b221f38a76fd",
+                "nama_opd": "Dinas Komunikasi dan Informatika"
+            },
+            "cctv_link": "https://stream.palembang.go.id/stream15/index.m3u8",
+            "cctv_status": "active",
+            "kecamatan": {
+                "_id": "68fae8a07e01c59a79a591d9",
+                "namaKecamatan": "ILIR TIMUR TIGA"
+            },
+            "kelurahan": {
+                "_id": "68fae8ba7e01c59a79a59253",
+                "namaKelurahan": "SEBELAS ILIR"
+            },
+            "rw_nama": "",
+            "rt_nama": "",
+            "kampung_nama": "",
+            "last_checked_at": "2025-11-26T09:20:20.159Z",
+            "is_online": true,
+            "createdAt": "2025-11-26T09:20:20.349Z",
+            "updatedAt": "2025-11-26T09:20:20.349Z",
+            "__v": 0
+        },
+        {
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    104.76491595640255,
+                    -2.9182126705927423
+                ]
+            },
+            "stream_quality": {
+                "resolution": ""
+            },
+            "_id": "69280fb8273b6e50c4160e94",
+            "cctv_id": "CCTV-KEBUNSAYUR-16",
+            "cctv_title": "CCTV Kebun Sayur 1",
+            "cctv_desc": "-2.9182126705927423, 104.76491595640255",
+            "cctv_category": "",
+            "cctv_opd": {
+                "_id": "68f9a4776438b221f38a76fd",
+                "nama_opd": "Dinas Komunikasi dan Informatika"
+            },
+            "cctv_link": "https://stream.palembang.go.id/stream16/index.m3u8",
+            "cctv_status": "active",
+            "kecamatan": {
+                "_id": "68fae8a07e01c59a79a591d2",
+                "namaKecamatan": "ALANG-ALANG LEBAR"
+            },
+            "kelurahan": {
+                "_id": "68fae8ba7e01c59a79a5927c",
+                "namaKelurahan": "ALANG-ALANG LEBAR"
+            },
+            "rw_nama": "",
+            "rt_nama": "",
+            "kampung_nama": "",
+            "last_checked_at": "2025-11-27T08:45:44.053Z",
+            "is_online": true,
+            "createdAt": "2025-11-27T08:45:44.218Z",
+            "updatedAt": "2025-11-27T08:45:44.218Z",
+            "__v": 0
+        },
+        {
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    104.82961757089058,
+                    -3.0184312300547567
+                ]
+            },
+            "stream_quality": {
+                "resolution": ""
+            },
+            "_id": "692810d5273b6e50c4161616",
+            "cctv_id": "CCTV-PLAJU-JEMBATAN1-18",
+            "cctv_title": "CCTV Plaju Jembatan 1",
+            "cctv_desc": "",
+            "cctv_category": "",
+            "cctv_opd": {
+                "_id": "68f9a4776438b221f38a76fd",
+                "nama_opd": "Dinas Komunikasi dan Informatika"
+            },
+            "cctv_link": "https://stream.palembang.go.id/stream18/index.m3u8",
+            "cctv_status": "active",
+            "kecamatan": {
+                "_id": "68fae8a07e01c59a79a591d3",
+                "namaKecamatan": "BUKITKECIL"
+            },
+            "kelurahan": {
+                "_id": "68fae8ba7e01c59a79a59260",
+                "namaKelurahan": "SEMBILAN-BELAS ILIR"
+            },
+            "rw_nama": "",
+            "rt_nama": "",
+            "kampung_nama": "",
+            "last_checked_at": "2025-11-27T08:50:29.063Z",
+            "is_online": true,
+            "createdAt": "2025-11-27T08:50:29.228Z",
+            "updatedAt": "2025-11-27T08:50:29.228Z",
+            "__v": 0
+        },
+        {
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    104.72120084852271,
+                    -3.0314985954091718
+                ]
+            },
+            "stream_quality": {
+                "resolution": ""
+            },
+            "_id": "692811a8273b6e50c4161b93",
+            "cctv_id": "CCTV-BMKG-19",
+            "cctv_title": "CCTV DEPAN BMKG KERTAPATI",
+            "cctv_desc": "",
+            "cctv_category": "",
+            "cctv_opd": {
+                "_id": "68f9a4776438b221f38a76fd",
+                "nama_opd": "Dinas Komunikasi dan Informatika"
+            },
+            "cctv_link": "https://stream.palembang.go.id/stream19/index.m3u8",
+            "cctv_status": "active",
+            "kecamatan": {
+                "_id": "68fae8a07e01c59a79a591da",
+                "namaKecamatan": "JAKABARING"
+            },
+            "kelurahan": {
+                "_id": "68fae8ba7e01c59a79a592ba",
+                "namaKelurahan": "TUANKENTANG"
+            },
+            "rw_nama": "",
+            "rt_nama": "",
+            "kampung_nama": "",
+            "last_checked_at": "2025-11-27T08:54:00.486Z",
+            "is_online": true,
+            "createdAt": "2025-11-27T08:54:00.636Z",
+            "updatedAt": "2025-11-27T08:54:00.636Z",
+            "__v": 0
+        },
+        {
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    104.76330599999999,
+                    -2.993604358377516
+                ]
+            },
+            "stream_quality": {
+                "resolution": ""
+            },
+            "_id": "69281276273b6e50c4162201",
+            "cctv_id": "CCTV-PLAZA7-ULU-20",
+            "cctv_title": "CCTV Plaza 7 Ulu",
+            "cctv_desc": "-2.993604358377516, 104.76330599999999",
+            "cctv_category": "",
+            "cctv_opd": {
+                "_id": "68f9a4776438b221f38a76fd",
+                "nama_opd": "Dinas Komunikasi dan Informatika"
+            },
+            "cctv_link": "https://stream.palembang.go.id/stream20/index.m3u8",
+            "cctv_status": "active",
+            "kecamatan": {
+                "_id": "68fae8a07e01c59a79a591da",
+                "namaKecamatan": "JAKABARING"
+            },
+            "kelurahan": {
+                "_id": "68fae8ba7e01c59a79a59279",
+                "namaKelurahan": "DELAPAN ULU"
+            },
+            "rw_nama": "",
+            "rt_nama": "",
+            "kampung_nama": "",
+            "last_checked_at": "2025-11-27T08:57:26.487Z",
+            "is_online": true,
+            "createdAt": "2025-11-27T08:57:26.663Z",
+            "updatedAt": "2025-11-27T08:57:26.663Z",
+            "__v": 0
+        },
+        {
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    104.7049268804673,
+                    -2.9585818994591024
+                ]
+            },
+            "stream_quality": {
+                "resolution": ""
+            },
+            "_id": "69281369273b6e50c41628de",
+            "cctv_id": "CCTV-SOETTA-17",
+            "cctv_title": "CCTV Soekarno Hatta",
+            "cctv_desc": "",
+            "cctv_category": "",
+            "cctv_opd": {
+                "_id": "68f9a4776438b221f38a76fd",
+                "nama_opd": "Dinas Komunikasi dan Informatika"
+            },
+            "cctv_link": "https://stream.palembang.go.id/stream17/index.m3u8",
+            "cctv_status": "active",
+            "kecamatan": {
+                "_id": "68fae8a07e01c59a79a591d9",
+                "namaKecamatan": "ILIR TIMUR TIGA"
+            },
+            "kelurahan": {
+                "_id": "68fae8ba7e01c59a79a59252",
+                "namaKelurahan": "SEPULUH ILIR"
+            },
+            "rw_nama": "",
+            "rt_nama": "",
+            "kampung_nama": "",
+            "last_checked_at": "2025-11-27T09:01:28.887Z",
+            "is_online": true,
+            "createdAt": "2025-11-27T09:01:29.043Z",
+            "updatedAt": "2025-11-27T09:01:29.043Z",
+            "__v": 0
+        },
+        {
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    104.7439515423289,
+                    -2.986829357668499
+                ]
+            },
+            "stream_quality": {
+                "resolution": ""
+            },
+            "_id": "6928176c273b6e50c41642e7",
+            "cctv_id": "CCTV-SPSAMSAT-21",
+            "cctv_title": "CCTV SP Samsat",
+            "cctv_desc": "",
+            "cctv_category": "",
+            "cctv_opd": {
+                "_id": "68f9a4776438b221f38a76fd",
+                "nama_opd": "Dinas Komunikasi dan Informatika"
+            },
+            "cctv_link": "https://stream.palembang.go.id/stream21/index.m3u8",
+            "cctv_status": "active",
+            "kecamatan": {
+                "_id": "68fae8a07e01c59a79a591d3",
+                "namaKecamatan": "BUKITKECIL"
+            },
+            "kelurahan": {
+                "_id": "68fae8ba7e01c59a79a59260",
+                "namaKelurahan": "SEMBILAN-BELAS ILIR"
+            },
+            "rw_nama": "",
+            "rt_nama": "",
+            "kampung_nama": "",
+            "last_checked_at": "2025-11-27T09:18:36.322Z",
+            "is_online": true,
+            "createdAt": "2025-11-27T09:18:36.483Z",
+            "updatedAt": "2025-11-27T09:18:36.483Z",
+            "__v": 0
+        },
+        {
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    104.76335818650665,
+                    -2.9911177874426
+                ]
+            },
+            "stream_quality": {
+                "resolution": ""
+            },
+            "_id": "692817d2273b6e50c41644e6",
+            "cctv_id": "CCTV-SPIP-22",
+            "cctv_title": "CCTV AMPERA 2",
+            "cctv_desc": "",
+            "cctv_category": "",
+            "cctv_opd": {
+                "_id": "68f9a4776438b221f38a76fd",
+                "nama_opd": "Dinas Komunikasi dan Informatika"
+            },
+            "cctv_link": "https://stream.palembang.go.id/stream22/index.m3u8",
+            "cctv_status": "active",
+            "kecamatan": {
+                "_id": "68fae8a07e01c59a79a591d9",
+                "namaKecamatan": "ILIR TIMUR TIGA"
+            },
+            "kelurahan": {
+                "_id": "68fae8ba7e01c59a79a59293",
+                "namaKelurahan": "KUTOBATU"
+            },
+            "rw_nama": "",
+            "rt_nama": "",
+            "kampung_nama": "",
+            "last_checked_at": "2025-11-27T09:44:25.959Z",
+            "is_online": true,
+            "createdAt": "2025-11-27T09:20:18.288Z",
+            "updatedAt": "2025-11-27T09:44:26.139Z",
+            "__v": 0
+        },
+        {
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    104.7418705423289,
+                    -3.065439665748101
+                ]
+            },
+            "stream_quality": {
+                "resolution": ""
+            },
+            "_id": "6928185b273b6e50c416493e",
+            "cctv_id": "CCTV-TJ-23",
+            "cctv_title": "CCTV Terminal Karyajaya Arah Jalan",
+            "cctv_desc": "",
+            "cctv_category": "",
+            "cctv_opd": {
+                "_id": "68f9a4776438b221f38a76fd",
+                "nama_opd": "Dinas Komunikasi dan Informatika"
+            },
+            "cctv_link": "https://stream.palembang.go.id/stream23/index.m3u8",
+            "cctv_status": "active",
+            "kecamatan": {
+                "_id": "68fae8a07e01c59a79a591d9",
+                "namaKecamatan": "ILIR TIMUR TIGA"
+            },
+            "kelurahan": {
+                "_id": "68fae8ba7e01c59a79a59293",
+                "namaKelurahan": "KUTOBATU"
+            },
+            "rw_nama": "",
+            "rt_nama": "",
+            "kampung_nama": "",
+            "last_checked_at": "2025-11-27T09:22:35.112Z",
+            "is_online": true,
+            "createdAt": "2025-11-27T09:22:35.276Z",
+            "updatedAt": "2025-11-27T09:22:35.276Z",
+            "__v": 0
+        },
+        {
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    104.72125000000001,
+                    -2.9388134892468485
+                ]
+            },
+            "stream_quality": {
+                "resolution": ""
+            },
+            "_id": "69281931273b6e50c416536d",
+            "cctv_id": "CCTV-DA-24",
+            "cctv_title": "CCTV Darma Agung",
+            "cctv_desc": "",
+            "cctv_category": "",
+            "cctv_opd": {
+                "_id": "68f9a4776438b221f38a76fd",
+                "nama_opd": "Dinas Komunikasi dan Informatika"
+            },
+            "cctv_link": "https://stream.palembang.go.id/stream24/index.m3u8",
+            "cctv_status": "active",
+            "kecamatan": {
+                "_id": "68fae8a07e01c59a79a591d9",
+                "namaKecamatan": "ILIR TIMUR TIGA"
+            },
+            "kelurahan": {
+                "_id": "68fae8ba7e01c59a79a59253",
+                "namaKelurahan": "SEBELAS ILIR"
+            },
+            "rw_nama": "",
+            "rt_nama": "",
+            "kampung_nama": "",
+            "last_checked_at": "2025-11-27T09:26:09.782Z",
+            "is_online": true,
+            "createdAt": "2025-11-27T09:26:09.929Z",
+            "updatedAt": "2025-11-27T09:26:09.929Z",
+            "__v": 0
+        },
+        {
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    104.76184254232889,
+                    -2.9898965009699703
+                ]
+            },
+            "stream_quality": {
+                "resolution": ""
+            },
+            "_id": "692819c6273b6e50c4165871",
+            "cctv_id": "CCTV-PASAR16-25",
+            "cctv_title": "CCTV Lapangan Parkir Pasar 16",
+            "cctv_desc": "",
+            "cctv_category": "",
+            "cctv_opd": {
+                "_id": "68f9a4776438b221f38a76fd",
+                "nama_opd": "Dinas Komunikasi dan Informatika"
+            },
+            "cctv_link": "https://stream.palembang.go.id/stream25/index.m3u8",
+            "cctv_status": "active",
+            "kecamatan": {
+                "_id": "68fae8a07e01c59a79a591d9",
+                "namaKecamatan": "ILIR TIMUR TIGA"
+            },
+            "kelurahan": {
+                "_id": "68fae8ba7e01c59a79a59283",
+                "namaKelurahan": "DUKU"
+            },
+            "rw_nama": "",
+            "rt_nama": "",
+            "kampung_nama": "",
+            "last_checked_at": "2025-11-27T09:28:38.233Z",
+            "is_online": true,
+            "createdAt": "2025-11-27T09:28:38.388Z",
+            "updatedAt": "2025-11-27T09:28:38.388Z",
+            "__v": 0
+        }
+    ]
+}
